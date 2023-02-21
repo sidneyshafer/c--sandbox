@@ -1,0 +1,15 @@
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ArraysAsParameters\ArraysAsParameters\obj\Debug\net6.0\ArraysAsParameters.csproj.AssemblyReference.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ArraysAsParameters\ArraysAsParameters\obj\Debug\net6.0\ArraysAsParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ArraysAsParameters\ArraysAsParameters\obj\Debug\net6.0\ArraysAsParameters.AssemblyInfoInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ArraysAsParameters\ArraysAsParameters\obj\Debug\net6.0\ArraysAsParameters.AssemblyInfo.cs
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ArraysAsParameters\ArraysAsParameters\obj\Debug\net6.0\ArraysAsParameters.csproj.CoreCompileInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ArraysAsParameters\ArraysAsParameters\bin\Debug\net6.0\ArraysAsParameters.exe
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ArraysAsParameters\ArraysAsParameters\bin\Debug\net6.0\ArraysAsParameters.deps.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ArraysAsParameters\ArraysAsParameters\bin\Debug\net6.0\ArraysAsParameters.runtimeconfig.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ArraysAsParameters\ArraysAsParameters\bin\Debug\net6.0\ArraysAsParameters.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ArraysAsParameters\ArraysAsParameters\bin\Debug\net6.0\ArraysAsParameters.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ArraysAsParameters\ArraysAsParameters\obj\Debug\net6.0\ArraysAsParameters.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ArraysAsParameters\ArraysAsParameters\obj\Debug\net6.0\refint\ArraysAsParameters.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ArraysAsParameters\ArraysAsParameters\obj\Debug\net6.0\ArraysAsParameters.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ArraysAsParameters\ArraysAsParameters\obj\Debug\net6.0\ArraysAsParameters.genruntimeconfig.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ArraysAsParameters\ArraysAsParameters\obj\Debug\net6.0\ref\ArraysAsParameters.dll
