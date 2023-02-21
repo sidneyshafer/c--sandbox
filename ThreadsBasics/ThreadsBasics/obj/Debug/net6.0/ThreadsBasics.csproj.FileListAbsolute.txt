@@ -1,0 +1,15 @@
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_Threads\ThreadsBasics\ThreadsBasics\bin\Debug\net6.0\ThreadsBasics.exe
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_Threads\ThreadsBasics\ThreadsBasics\bin\Debug\net6.0\ThreadsBasics.deps.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_Threads\ThreadsBasics\ThreadsBasics\bin\Debug\net6.0\ThreadsBasics.runtimeconfig.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_Threads\ThreadsBasics\ThreadsBasics\bin\Debug\net6.0\ThreadsBasics.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_Threads\ThreadsBasics\ThreadsBasics\bin\Debug\net6.0\ThreadsBasics.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_Threads\ThreadsBasics\ThreadsBasics\obj\Debug\net6.0\ThreadsBasics.csproj.AssemblyReference.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_Threads\ThreadsBasics\ThreadsBasics\obj\Debug\net6.0\ThreadsBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_Threads\ThreadsBasics\ThreadsBasics\obj\Debug\net6.0\ThreadsBasics.AssemblyInfoInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_Threads\ThreadsBasics\ThreadsBasics\obj\Debug\net6.0\ThreadsBasics.AssemblyInfo.cs
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_Threads\ThreadsBasics\ThreadsBasics\obj\Debug\net6.0\ThreadsBasics.csproj.CoreCompileInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_Threads\ThreadsBasics\ThreadsBasics\obj\Debug\net6.0\ThreadsBasics.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_Threads\ThreadsBasics\ThreadsBasics\obj\Debug\net6.0\refint\ThreadsBasics.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_Threads\ThreadsBasics\ThreadsBasics\obj\Debug\net6.0\ThreadsBasics.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_Threads\ThreadsBasics\ThreadsBasics\obj\Debug\net6.0\ThreadsBasics.genruntimeconfig.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_Threads\ThreadsBasics\ThreadsBasics\obj\Debug\net6.0\ref\ThreadsBasics.dll
