@@ -1,0 +1,15 @@
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_LINQ\Linq1\Linq1\bin\Debug\net6.0\Linq1.exe
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_LINQ\Linq1\Linq1\bin\Debug\net6.0\Linq1.deps.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_LINQ\Linq1\Linq1\bin\Debug\net6.0\Linq1.runtimeconfig.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_LINQ\Linq1\Linq1\bin\Debug\net6.0\Linq1.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_LINQ\Linq1\Linq1\bin\Debug\net6.0\Linq1.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_LINQ\Linq1\Linq1\obj\Debug\net6.0\Linq1.csproj.AssemblyReference.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_LINQ\Linq1\Linq1\obj\Debug\net6.0\Linq1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_LINQ\Linq1\Linq1\obj\Debug\net6.0\Linq1.AssemblyInfoInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_LINQ\Linq1\Linq1\obj\Debug\net6.0\Linq1.AssemblyInfo.cs
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_LINQ\Linq1\Linq1\obj\Debug\net6.0\Linq1.csproj.CoreCompileInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_LINQ\Linq1\Linq1\obj\Debug\net6.0\Linq1.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_LINQ\Linq1\Linq1\obj\Debug\net6.0\refint\Linq1.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_LINQ\Linq1\Linq1\obj\Debug\net6.0\Linq1.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_LINQ\Linq1\Linq1\obj\Debug\net6.0\Linq1.genruntimeconfig.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_LINQ\Linq1\Linq1\obj\Debug\net6.0\ref\Linq1.dll
