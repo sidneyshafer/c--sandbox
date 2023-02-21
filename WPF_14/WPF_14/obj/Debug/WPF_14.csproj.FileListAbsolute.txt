@@ -1,0 +1,16 @@
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_WPF\WPF_14\WPF_14\bin\Debug\WPF_14.exe.config
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_WPF\WPF_14\WPF_14\bin\Debug\WPF_14.exe
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_WPF\WPF_14\WPF_14\bin\Debug\WPF_14.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_WPF\WPF_14\WPF_14\obj\Debug\WPF_14.csproj.AssemblyReference.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_WPF\WPF_14\WPF_14\obj\Debug\WPF_14.csproj.SuggestedBindingRedirects.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_WPF\WPF_14\WPF_14\obj\Debug\MainWindow.g.cs
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_WPF\WPF_14\WPF_14\obj\Debug\App.g.cs
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_WPF\WPF_14\WPF_14\obj\Debug\WPF_14_MarkupCompile.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_WPF\WPF_14\WPF_14\obj\Debug\WPF_14_MarkupCompile.lref
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_WPF\WPF_14\WPF_14\obj\Debug\MainWindow.baml
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_WPF\WPF_14\WPF_14\obj\Debug\WPF_14.g.resources
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_WPF\WPF_14\WPF_14\obj\Debug\WPF_14.Properties.Resources.resources
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_WPF\WPF_14\WPF_14\obj\Debug\WPF_14.csproj.GenerateResource.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_WPF\WPF_14\WPF_14\obj\Debug\WPF_14.csproj.CoreCompileInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_WPF\WPF_14\WPF_14\obj\Debug\WPF_14.exe
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\_WPF\WPF_14\WPF_14\obj\Debug\WPF_14.pdb
