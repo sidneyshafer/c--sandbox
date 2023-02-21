@@ -1,0 +1,15 @@
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ArrayLists\ArrayLists\bin\Debug\net6.0\ArrayLists.exe
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ArrayLists\ArrayLists\bin\Debug\net6.0\ArrayLists.deps.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ArrayLists\ArrayLists\bin\Debug\net6.0\ArrayLists.runtimeconfig.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ArrayLists\ArrayLists\bin\Debug\net6.0\ArrayLists.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ArrayLists\ArrayLists\bin\Debug\net6.0\ArrayLists.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ArrayLists\ArrayLists\obj\Debug\net6.0\ArrayLists.csproj.AssemblyReference.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ArrayLists\ArrayLists\obj\Debug\net6.0\ArrayLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ArrayLists\ArrayLists\obj\Debug\net6.0\ArrayLists.AssemblyInfoInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ArrayLists\ArrayLists\obj\Debug\net6.0\ArrayLists.AssemblyInfo.cs
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ArrayLists\ArrayLists\obj\Debug\net6.0\ArrayLists.csproj.CoreCompileInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ArrayLists\ArrayLists\obj\Debug\net6.0\ArrayLists.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ArrayLists\ArrayLists\obj\Debug\net6.0\refint\ArrayLists.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ArrayLists\ArrayLists\obj\Debug\net6.0\ArrayLists.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ArrayLists\ArrayLists\obj\Debug\net6.0\ArrayLists.genruntimeconfig.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ArrayLists\ArrayLists\obj\Debug\net6.0\ref\ArrayLists.dll
