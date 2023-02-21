@@ -1,0 +1,15 @@
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ArraysBasics\ArraysBasics\bin\Debug\net6.0\ArraysBasics.exe
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ArraysBasics\ArraysBasics\bin\Debug\net6.0\ArraysBasics.deps.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ArraysBasics\ArraysBasics\bin\Debug\net6.0\ArraysBasics.runtimeconfig.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ArraysBasics\ArraysBasics\bin\Debug\net6.0\ArraysBasics.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ArraysBasics\ArraysBasics\bin\Debug\net6.0\ArraysBasics.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ArraysBasics\ArraysBasics\obj\Debug\net6.0\ArraysBasics.csproj.AssemblyReference.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ArraysBasics\ArraysBasics\obj\Debug\net6.0\ArraysBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ArraysBasics\ArraysBasics\obj\Debug\net6.0\ArraysBasics.AssemblyInfoInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ArraysBasics\ArraysBasics\obj\Debug\net6.0\ArraysBasics.AssemblyInfo.cs
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ArraysBasics\ArraysBasics\obj\Debug\net6.0\ArraysBasics.csproj.CoreCompileInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ArraysBasics\ArraysBasics\obj\Debug\net6.0\ArraysBasics.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ArraysBasics\ArraysBasics\obj\Debug\net6.0\refint\ArraysBasics.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ArraysBasics\ArraysBasics\obj\Debug\net6.0\ArraysBasics.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ArraysBasics\ArraysBasics\obj\Debug\net6.0\ArraysBasics.genruntimeconfig.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ArraysBasics\ArraysBasics\obj\Debug\net6.0\ref\ArraysBasics.dll
