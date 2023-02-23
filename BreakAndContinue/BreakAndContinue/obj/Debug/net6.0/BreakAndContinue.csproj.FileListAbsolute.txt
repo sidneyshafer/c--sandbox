@@ -1,0 +1,15 @@
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\BreakAndContinue\BreakAndContinue\bin\Debug\net6.0\BreakAndContinue.exe
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\BreakAndContinue\BreakAndContinue\bin\Debug\net6.0\BreakAndContinue.deps.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\BreakAndContinue\BreakAndContinue\bin\Debug\net6.0\BreakAndContinue.runtimeconfig.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\BreakAndContinue\BreakAndContinue\bin\Debug\net6.0\BreakAndContinue.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\BreakAndContinue\BreakAndContinue\bin\Debug\net6.0\BreakAndContinue.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\BreakAndContinue\BreakAndContinue\obj\Debug\net6.0\BreakAndContinue.csproj.AssemblyReference.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\BreakAndContinue\BreakAndContinue\obj\Debug\net6.0\BreakAndContinue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\BreakAndContinue\BreakAndContinue\obj\Debug\net6.0\BreakAndContinue.AssemblyInfoInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\BreakAndContinue\BreakAndContinue\obj\Debug\net6.0\BreakAndContinue.AssemblyInfo.cs
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\BreakAndContinue\BreakAndContinue\obj\Debug\net6.0\BreakAndContinue.csproj.CoreCompileInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\BreakAndContinue\BreakAndContinue\obj\Debug\net6.0\BreakAndContinue.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\BreakAndContinue\BreakAndContinue\obj\Debug\net6.0\refint\BreakAndContinue.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\BreakAndContinue\BreakAndContinue\obj\Debug\net6.0\BreakAndContinue.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\BreakAndContinue\BreakAndContinue\obj\Debug\net6.0\BreakAndContinue.genruntimeconfig.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\BreakAndContinue\BreakAndContinue\obj\Debug\net6.0\ref\BreakAndContinue.dll
