@@ -1,0 +1,15 @@
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\Conversion\Conversion\bin\Debug\net6.0\Conversion.exe
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\Conversion\Conversion\bin\Debug\net6.0\Conversion.deps.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\Conversion\Conversion\bin\Debug\net6.0\Conversion.runtimeconfig.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\Conversion\Conversion\bin\Debug\net6.0\Conversion.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\Conversion\Conversion\bin\Debug\net6.0\Conversion.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\Conversion\Conversion\obj\Debug\net6.0\Conversion.csproj.AssemblyReference.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\Conversion\Conversion\obj\Debug\net6.0\Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\Conversion\Conversion\obj\Debug\net6.0\Conversion.AssemblyInfoInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\Conversion\Conversion\obj\Debug\net6.0\Conversion.AssemblyInfo.cs
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\Conversion\Conversion\obj\Debug\net6.0\Conversion.csproj.CoreCompileInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\Conversion\Conversion\obj\Debug\net6.0\Conversion.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\Conversion\Conversion\obj\Debug\net6.0\refint\Conversion.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\Conversion\Conversion\obj\Debug\net6.0\Conversion.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\Conversion\Conversion\obj\Debug\net6.0\Conversion.genruntimeconfig.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\Conversion\Conversion\obj\Debug\net6.0\ref\Conversion.dll
