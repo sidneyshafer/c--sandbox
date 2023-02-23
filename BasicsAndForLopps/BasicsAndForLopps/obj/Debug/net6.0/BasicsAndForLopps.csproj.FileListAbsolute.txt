@@ -1,0 +1,15 @@
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\BasicsAndForLopps\BasicsAndForLopps\bin\Debug\net6.0\BasicsAndForLopps.exe
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\BasicsAndForLopps\BasicsAndForLopps\bin\Debug\net6.0\BasicsAndForLopps.deps.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\BasicsAndForLopps\BasicsAndForLopps\bin\Debug\net6.0\BasicsAndForLopps.runtimeconfig.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\BasicsAndForLopps\BasicsAndForLopps\bin\Debug\net6.0\BasicsAndForLopps.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\BasicsAndForLopps\BasicsAndForLopps\bin\Debug\net6.0\BasicsAndForLopps.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\BasicsAndForLopps\BasicsAndForLopps\obj\Debug\net6.0\BasicsAndForLopps.csproj.AssemblyReference.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\BasicsAndForLopps\BasicsAndForLopps\obj\Debug\net6.0\BasicsAndForLopps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\BasicsAndForLopps\BasicsAndForLopps\obj\Debug\net6.0\BasicsAndForLopps.AssemblyInfoInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\BasicsAndForLopps\BasicsAndForLopps\obj\Debug\net6.0\BasicsAndForLopps.AssemblyInfo.cs
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\BasicsAndForLopps\BasicsAndForLopps\obj\Debug\net6.0\BasicsAndForLopps.csproj.CoreCompileInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\BasicsAndForLopps\BasicsAndForLopps\obj\Debug\net6.0\BasicsAndForLopps.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\BasicsAndForLopps\BasicsAndForLopps\obj\Debug\net6.0\refint\BasicsAndForLopps.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\BasicsAndForLopps\BasicsAndForLopps\obj\Debug\net6.0\BasicsAndForLopps.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\BasicsAndForLopps\BasicsAndForLopps\obj\Debug\net6.0\BasicsAndForLopps.genruntimeconfig.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\BasicsAndForLopps\BasicsAndForLopps\obj\Debug\net6.0\ref\BasicsAndForLopps.dll
