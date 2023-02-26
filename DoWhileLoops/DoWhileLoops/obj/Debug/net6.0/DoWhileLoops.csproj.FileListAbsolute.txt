@@ -1,0 +1,15 @@
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\DoWhileLoops\DoWhileLoops\bin\Debug\net6.0\DoWhileLoops.exe
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\DoWhileLoops\DoWhileLoops\bin\Debug\net6.0\DoWhileLoops.deps.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\DoWhileLoops\DoWhileLoops\bin\Debug\net6.0\DoWhileLoops.runtimeconfig.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\DoWhileLoops\DoWhileLoops\bin\Debug\net6.0\DoWhileLoops.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\DoWhileLoops\DoWhileLoops\bin\Debug\net6.0\DoWhileLoops.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\DoWhileLoops\DoWhileLoops\obj\Debug\net6.0\DoWhileLoops.csproj.AssemblyReference.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\DoWhileLoops\DoWhileLoops\obj\Debug\net6.0\DoWhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\DoWhileLoops\DoWhileLoops\obj\Debug\net6.0\DoWhileLoops.AssemblyInfoInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\DoWhileLoops\DoWhileLoops\obj\Debug\net6.0\DoWhileLoops.AssemblyInfo.cs
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\DoWhileLoops\DoWhileLoops\obj\Debug\net6.0\DoWhileLoops.csproj.CoreCompileInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\DoWhileLoops\DoWhileLoops\obj\Debug\net6.0\DoWhileLoops.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\DoWhileLoops\DoWhileLoops\obj\Debug\net6.0\refint\DoWhileLoops.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\DoWhileLoops\DoWhileLoops\obj\Debug\net6.0\DoWhileLoops.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\DoWhileLoops\DoWhileLoops\obj\Debug\net6.0\DoWhileLoops.genruntimeconfig.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\DoWhileLoops\DoWhileLoops\obj\Debug\net6.0\ref\DoWhileLoops.dll
