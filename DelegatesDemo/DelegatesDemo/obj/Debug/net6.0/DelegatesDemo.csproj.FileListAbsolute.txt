@@ -1,0 +1,15 @@
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\DelegatesDemo\DelegatesDemo\bin\Debug\net6.0\DelegatesDemo.exe
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\DelegatesDemo\DelegatesDemo\bin\Debug\net6.0\DelegatesDemo.deps.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\DelegatesDemo\DelegatesDemo\bin\Debug\net6.0\DelegatesDemo.runtimeconfig.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\DelegatesDemo\DelegatesDemo\bin\Debug\net6.0\DelegatesDemo.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\DelegatesDemo\DelegatesDemo\bin\Debug\net6.0\DelegatesDemo.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\DelegatesDemo\DelegatesDemo\obj\Debug\net6.0\DelegatesDemo.csproj.AssemblyReference.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\DelegatesDemo\DelegatesDemo\obj\Debug\net6.0\DelegatesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\DelegatesDemo\DelegatesDemo\obj\Debug\net6.0\DelegatesDemo.AssemblyInfoInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\DelegatesDemo\DelegatesDemo\obj\Debug\net6.0\DelegatesDemo.AssemblyInfo.cs
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\DelegatesDemo\DelegatesDemo\obj\Debug\net6.0\DelegatesDemo.csproj.CoreCompileInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\DelegatesDemo\DelegatesDemo\obj\Debug\net6.0\DelegatesDemo.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\DelegatesDemo\DelegatesDemo\obj\Debug\net6.0\refint\DelegatesDemo.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\DelegatesDemo\DelegatesDemo\obj\Debug\net6.0\DelegatesDemo.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\DelegatesDemo\DelegatesDemo\obj\Debug\net6.0\DelegatesDemo.genruntimeconfig.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\DelegatesDemo\DelegatesDemo\obj\Debug\net6.0\ref\DelegatesDemo.dll
