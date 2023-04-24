@@ -1,0 +1,15 @@
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MultiDimensionalArrays\MultiDimensionalArrays\bin\Debug\net6.0\MultiDimensionalArrays.exe
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MultiDimensionalArrays\MultiDimensionalArrays\bin\Debug\net6.0\MultiDimensionalArrays.deps.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MultiDimensionalArrays\MultiDimensionalArrays\bin\Debug\net6.0\MultiDimensionalArrays.runtimeconfig.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MultiDimensionalArrays\MultiDimensionalArrays\bin\Debug\net6.0\MultiDimensionalArrays.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MultiDimensionalArrays\MultiDimensionalArrays\bin\Debug\net6.0\MultiDimensionalArrays.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\net6.0\MultiDimensionalArrays.csproj.AssemblyReference.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\net6.0\MultiDimensionalArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\net6.0\MultiDimensionalArrays.AssemblyInfoInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\net6.0\MultiDimensionalArrays.AssemblyInfo.cs
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\net6.0\MultiDimensionalArrays.csproj.CoreCompileInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\net6.0\MultiDimensionalArrays.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\net6.0\refint\MultiDimensionalArrays.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\net6.0\MultiDimensionalArrays.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\net6.0\MultiDimensionalArrays.genruntimeconfig.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\net6.0\ref\MultiDimensionalArrays.dll
