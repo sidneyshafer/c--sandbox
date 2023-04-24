@@ -1,0 +1,15 @@
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\IntroToDecisionMaking\IntroToDecisionMaking\bin\Debug\net6.0\IntroToDecisionMaking.exe
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\IntroToDecisionMaking\IntroToDecisionMaking\bin\Debug\net6.0\IntroToDecisionMaking.deps.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\IntroToDecisionMaking\IntroToDecisionMaking\bin\Debug\net6.0\IntroToDecisionMaking.runtimeconfig.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\IntroToDecisionMaking\IntroToDecisionMaking\bin\Debug\net6.0\IntroToDecisionMaking.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\IntroToDecisionMaking\IntroToDecisionMaking\bin\Debug\net6.0\IntroToDecisionMaking.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\IntroToDecisionMaking\IntroToDecisionMaking\obj\Debug\net6.0\IntroToDecisionMaking.csproj.AssemblyReference.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\IntroToDecisionMaking\IntroToDecisionMaking\obj\Debug\net6.0\IntroToDecisionMaking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\IntroToDecisionMaking\IntroToDecisionMaking\obj\Debug\net6.0\IntroToDecisionMaking.AssemblyInfoInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\IntroToDecisionMaking\IntroToDecisionMaking\obj\Debug\net6.0\IntroToDecisionMaking.AssemblyInfo.cs
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\IntroToDecisionMaking\IntroToDecisionMaking\obj\Debug\net6.0\IntroToDecisionMaking.csproj.CoreCompileInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\IntroToDecisionMaking\IntroToDecisionMaking\obj\Debug\net6.0\IntroToDecisionMaking.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\IntroToDecisionMaking\IntroToDecisionMaking\obj\Debug\net6.0\refint\IntroToDecisionMaking.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\IntroToDecisionMaking\IntroToDecisionMaking\obj\Debug\net6.0\IntroToDecisionMaking.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\IntroToDecisionMaking\IntroToDecisionMaking\obj\Debug\net6.0\IntroToDecisionMaking.genruntimeconfig.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\IntroToDecisionMaking\IntroToDecisionMaking\obj\Debug\net6.0\ref\IntroToDecisionMaking.dll
