@@ -1,0 +1,15 @@
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ReadFile\ReadFile\bin\Debug\net6.0\ReadFile.exe
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ReadFile\ReadFile\bin\Debug\net6.0\ReadFile.deps.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ReadFile\ReadFile\bin\Debug\net6.0\ReadFile.runtimeconfig.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ReadFile\ReadFile\bin\Debug\net6.0\ReadFile.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ReadFile\ReadFile\bin\Debug\net6.0\ReadFile.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ReadFile\ReadFile\obj\Debug\net6.0\ReadFile.csproj.AssemblyReference.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ReadFile\ReadFile\obj\Debug\net6.0\ReadFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ReadFile\ReadFile\obj\Debug\net6.0\ReadFile.AssemblyInfoInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ReadFile\ReadFile\obj\Debug\net6.0\ReadFile.AssemblyInfo.cs
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ReadFile\ReadFile\obj\Debug\net6.0\ReadFile.csproj.CoreCompileInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ReadFile\ReadFile\obj\Debug\net6.0\ReadFile.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ReadFile\ReadFile\obj\Debug\net6.0\refint\ReadFile.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ReadFile\ReadFile\obj\Debug\net6.0\ReadFile.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ReadFile\ReadFile\obj\Debug\net6.0\ReadFile.genruntimeconfig.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\ReadFile\ReadFile\obj\Debug\net6.0\ref\ReadFile.dll

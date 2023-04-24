@@ -1,0 +1,15 @@
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\QueuesAndStacks\QueuesAndStacks\bin\Debug\net6.0\QueuesAndStacks.exe
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\QueuesAndStacks\QueuesAndStacks\bin\Debug\net6.0\QueuesAndStacks.deps.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\QueuesAndStacks\QueuesAndStacks\bin\Debug\net6.0\QueuesAndStacks.runtimeconfig.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\QueuesAndStacks\QueuesAndStacks\bin\Debug\net6.0\QueuesAndStacks.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\QueuesAndStacks\QueuesAndStacks\bin\Debug\net6.0\QueuesAndStacks.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\QueuesAndStacks\QueuesAndStacks\obj\Debug\net6.0\QueuesAndStacks.csproj.AssemblyReference.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\QueuesAndStacks\QueuesAndStacks\obj\Debug\net6.0\QueuesAndStacks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\QueuesAndStacks\QueuesAndStacks\obj\Debug\net6.0\QueuesAndStacks.AssemblyInfoInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\QueuesAndStacks\QueuesAndStacks\obj\Debug\net6.0\QueuesAndStacks.AssemblyInfo.cs
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\QueuesAndStacks\QueuesAndStacks\obj\Debug\net6.0\QueuesAndStacks.csproj.CoreCompileInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\QueuesAndStacks\QueuesAndStacks\obj\Debug\net6.0\QueuesAndStacks.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\QueuesAndStacks\QueuesAndStacks\obj\Debug\net6.0\refint\QueuesAndStacks.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\QueuesAndStacks\QueuesAndStacks\obj\Debug\net6.0\QueuesAndStacks.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\QueuesAndStacks\QueuesAndStacks\obj\Debug\net6.0\QueuesAndStacks.genruntimeconfig.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\QueuesAndStacks\QueuesAndStacks\obj\Debug\net6.0\ref\QueuesAndStacks.dll
