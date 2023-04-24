@@ -1,0 +1,15 @@
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\UsingConstructors\UsingConstructors\bin\Debug\net6.0\UsingConstructors.exe
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\UsingConstructors\UsingConstructors\bin\Debug\net6.0\UsingConstructors.deps.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\UsingConstructors\UsingConstructors\bin\Debug\net6.0\UsingConstructors.runtimeconfig.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\UsingConstructors\UsingConstructors\bin\Debug\net6.0\UsingConstructors.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\UsingConstructors\UsingConstructors\bin\Debug\net6.0\UsingConstructors.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\UsingConstructors\UsingConstructors\obj\Debug\net6.0\UsingConstructors.csproj.AssemblyReference.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\UsingConstructors\UsingConstructors\obj\Debug\net6.0\UsingConstructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\UsingConstructors\UsingConstructors\obj\Debug\net6.0\UsingConstructors.AssemblyInfoInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\UsingConstructors\UsingConstructors\obj\Debug\net6.0\UsingConstructors.AssemblyInfo.cs
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\UsingConstructors\UsingConstructors\obj\Debug\net6.0\UsingConstructors.csproj.CoreCompileInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\UsingConstructors\UsingConstructors\obj\Debug\net6.0\UsingConstructors.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\UsingConstructors\UsingConstructors\obj\Debug\net6.0\refint\UsingConstructors.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\UsingConstructors\UsingConstructors\obj\Debug\net6.0\UsingConstructors.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\UsingConstructors\UsingConstructors\obj\Debug\net6.0\UsingConstructors.genruntimeconfig.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\UsingConstructors\UsingConstructors\obj\Debug\net6.0\ref\UsingConstructors.dll

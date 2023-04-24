@@ -1,0 +1,15 @@
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\UserInput\UserInput\bin\Debug\net6.0\UserInput.exe
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\UserInput\UserInput\bin\Debug\net6.0\UserInput.deps.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\UserInput\UserInput\bin\Debug\net6.0\UserInput.runtimeconfig.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\UserInput\UserInput\bin\Debug\net6.0\UserInput.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\UserInput\UserInput\bin\Debug\net6.0\UserInput.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\UserInput\UserInput\obj\Debug\net6.0\UserInput.csproj.AssemblyReference.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\UserInput\UserInput\obj\Debug\net6.0\UserInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\UserInput\UserInput\obj\Debug\net6.0\UserInput.AssemblyInfoInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\UserInput\UserInput\obj\Debug\net6.0\UserInput.AssemblyInfo.cs
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\UserInput\UserInput\obj\Debug\net6.0\UserInput.csproj.CoreCompileInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\UserInput\UserInput\obj\Debug\net6.0\UserInput.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\UserInput\UserInput\obj\Debug\net6.0\refint\UserInput.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\UserInput\UserInput\obj\Debug\net6.0\UserInput.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\UserInput\UserInput\obj\Debug\net6.0\UserInput.genruntimeconfig.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\UserInput\UserInput\obj\Debug\net6.0\ref\UserInput.dll
