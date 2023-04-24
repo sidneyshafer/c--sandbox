@@ -1,0 +1,15 @@
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\JaggedArraysChallenge\JaggedArraysChallenge\bin\Debug\net6.0\JaggedArraysChallenge.exe
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\JaggedArraysChallenge\JaggedArraysChallenge\bin\Debug\net6.0\JaggedArraysChallenge.deps.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\JaggedArraysChallenge\JaggedArraysChallenge\bin\Debug\net6.0\JaggedArraysChallenge.runtimeconfig.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\JaggedArraysChallenge\JaggedArraysChallenge\bin\Debug\net6.0\JaggedArraysChallenge.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\JaggedArraysChallenge\JaggedArraysChallenge\bin\Debug\net6.0\JaggedArraysChallenge.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\JaggedArraysChallenge\JaggedArraysChallenge\obj\Debug\net6.0\JaggedArraysChallenge.csproj.AssemblyReference.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\JaggedArraysChallenge\JaggedArraysChallenge\obj\Debug\net6.0\JaggedArraysChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\JaggedArraysChallenge\JaggedArraysChallenge\obj\Debug\net6.0\JaggedArraysChallenge.AssemblyInfoInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\JaggedArraysChallenge\JaggedArraysChallenge\obj\Debug\net6.0\JaggedArraysChallenge.AssemblyInfo.cs
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\JaggedArraysChallenge\JaggedArraysChallenge\obj\Debug\net6.0\JaggedArraysChallenge.csproj.CoreCompileInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\JaggedArraysChallenge\JaggedArraysChallenge\obj\Debug\net6.0\JaggedArraysChallenge.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\JaggedArraysChallenge\JaggedArraysChallenge\obj\Debug\net6.0\refint\JaggedArraysChallenge.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\JaggedArraysChallenge\JaggedArraysChallenge\obj\Debug\net6.0\JaggedArraysChallenge.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\JaggedArraysChallenge\JaggedArraysChallenge\obj\Debug\net6.0\JaggedArraysChallenge.genruntimeconfig.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\JaggedArraysChallenge\JaggedArraysChallenge\obj\Debug\net6.0\ref\JaggedArraysChallenge.dll
