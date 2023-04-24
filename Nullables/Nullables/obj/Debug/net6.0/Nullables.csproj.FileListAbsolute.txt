@@ -1,0 +1,15 @@
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\Nullables\Nullables\bin\Debug\net6.0\Nullables.exe
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\Nullables\Nullables\bin\Debug\net6.0\Nullables.deps.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\Nullables\Nullables\bin\Debug\net6.0\Nullables.runtimeconfig.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\Nullables\Nullables\bin\Debug\net6.0\Nullables.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\Nullables\Nullables\bin\Debug\net6.0\Nullables.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\Nullables\Nullables\obj\Debug\net6.0\Nullables.csproj.AssemblyReference.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\Nullables\Nullables\obj\Debug\net6.0\Nullables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\Nullables\Nullables\obj\Debug\net6.0\Nullables.AssemblyInfoInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\Nullables\Nullables\obj\Debug\net6.0\Nullables.AssemblyInfo.cs
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\Nullables\Nullables\obj\Debug\net6.0\Nullables.csproj.CoreCompileInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\Nullables\Nullables\obj\Debug\net6.0\Nullables.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\Nullables\Nullables\obj\Debug\net6.0\refint\Nullables.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\Nullables\Nullables\obj\Debug\net6.0\Nullables.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\Nullables\Nullables\obj\Debug\net6.0\Nullables.genruntimeconfig.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\Nullables\Nullables\obj\Debug\net6.0\ref\Nullables.dll

@@ -1,0 +1,15 @@
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\NestedIfStatements\NestedIfStatements\bin\Debug\net6.0\NestedIfStatements.exe
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\NestedIfStatements\NestedIfStatements\bin\Debug\net6.0\NestedIfStatements.deps.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\NestedIfStatements\NestedIfStatements\bin\Debug\net6.0\NestedIfStatements.runtimeconfig.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\NestedIfStatements\NestedIfStatements\bin\Debug\net6.0\NestedIfStatements.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\NestedIfStatements\NestedIfStatements\bin\Debug\net6.0\NestedIfStatements.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\NestedIfStatements\NestedIfStatements\obj\Debug\net6.0\NestedIfStatements.csproj.AssemblyReference.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\NestedIfStatements\NestedIfStatements\obj\Debug\net6.0\NestedIfStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\NestedIfStatements\NestedIfStatements\obj\Debug\net6.0\NestedIfStatements.AssemblyInfoInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\NestedIfStatements\NestedIfStatements\obj\Debug\net6.0\NestedIfStatements.AssemblyInfo.cs
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\NestedIfStatements\NestedIfStatements\obj\Debug\net6.0\NestedIfStatements.csproj.CoreCompileInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\NestedIfStatements\NestedIfStatements\obj\Debug\net6.0\NestedIfStatements.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\NestedIfStatements\NestedIfStatements\obj\Debug\net6.0\refint\NestedIfStatements.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\NestedIfStatements\NestedIfStatements\obj\Debug\net6.0\NestedIfStatements.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\NestedIfStatements\NestedIfStatements\obj\Debug\net6.0\NestedIfStatements.genruntimeconfig.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\NestedIfStatements\NestedIfStatements\obj\Debug\net6.0\ref\NestedIfStatements.dll
