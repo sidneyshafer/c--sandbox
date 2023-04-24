@@ -1,0 +1,15 @@
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\LoopsChallenge\LoopsChallenge\bin\Debug\net6.0\LoopsChallenge.exe
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\LoopsChallenge\LoopsChallenge\bin\Debug\net6.0\LoopsChallenge.deps.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\LoopsChallenge\LoopsChallenge\bin\Debug\net6.0\LoopsChallenge.runtimeconfig.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\LoopsChallenge\LoopsChallenge\bin\Debug\net6.0\LoopsChallenge.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\LoopsChallenge\LoopsChallenge\bin\Debug\net6.0\LoopsChallenge.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\LoopsChallenge\LoopsChallenge\obj\Debug\net6.0\LoopsChallenge.csproj.AssemblyReference.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\LoopsChallenge\LoopsChallenge\obj\Debug\net6.0\LoopsChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\LoopsChallenge\LoopsChallenge\obj\Debug\net6.0\LoopsChallenge.AssemblyInfoInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\LoopsChallenge\LoopsChallenge\obj\Debug\net6.0\LoopsChallenge.AssemblyInfo.cs
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\LoopsChallenge\LoopsChallenge\obj\Debug\net6.0\LoopsChallenge.csproj.CoreCompileInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\LoopsChallenge\LoopsChallenge\obj\Debug\net6.0\LoopsChallenge.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\LoopsChallenge\LoopsChallenge\obj\Debug\net6.0\refint\LoopsChallenge.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\LoopsChallenge\LoopsChallenge\obj\Debug\net6.0\LoopsChallenge.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\LoopsChallenge\LoopsChallenge\obj\Debug\net6.0\LoopsChallenge.genruntimeconfig.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\LoopsChallenge\LoopsChallenge\obj\Debug\net6.0\ref\LoopsChallenge.dll
