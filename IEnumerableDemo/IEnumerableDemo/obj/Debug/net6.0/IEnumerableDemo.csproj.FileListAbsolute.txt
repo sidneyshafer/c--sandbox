@@ -1,0 +1,15 @@
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\IEnumerableDemo\IEnumerableDemo\bin\Debug\net6.0\IEnumerableDemo.exe
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\IEnumerableDemo\IEnumerableDemo\bin\Debug\net6.0\IEnumerableDemo.deps.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\IEnumerableDemo\IEnumerableDemo\bin\Debug\net6.0\IEnumerableDemo.runtimeconfig.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\IEnumerableDemo\IEnumerableDemo\bin\Debug\net6.0\IEnumerableDemo.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\IEnumerableDemo\IEnumerableDemo\bin\Debug\net6.0\IEnumerableDemo.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\IEnumerableDemo\IEnumerableDemo\obj\Debug\net6.0\IEnumerableDemo.csproj.AssemblyReference.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\IEnumerableDemo\IEnumerableDemo\obj\Debug\net6.0\IEnumerableDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\IEnumerableDemo\IEnumerableDemo\obj\Debug\net6.0\IEnumerableDemo.AssemblyInfoInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\IEnumerableDemo\IEnumerableDemo\obj\Debug\net6.0\IEnumerableDemo.AssemblyInfo.cs
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\IEnumerableDemo\IEnumerableDemo\obj\Debug\net6.0\IEnumerableDemo.csproj.CoreCompileInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\IEnumerableDemo\IEnumerableDemo\obj\Debug\net6.0\IEnumerableDemo.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\IEnumerableDemo\IEnumerableDemo\obj\Debug\net6.0\refint\IEnumerableDemo.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\IEnumerableDemo\IEnumerableDemo\obj\Debug\net6.0\IEnumerableDemo.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\IEnumerableDemo\IEnumerableDemo\obj\Debug\net6.0\IEnumerableDemo.genruntimeconfig.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\IEnumerableDemo\IEnumerableDemo\obj\Debug\net6.0\ref\IEnumerableDemo.dll
