@@ -1,0 +1,33 @@
+﻿1234567890
+	
+202-555-0196 --> \d{3}[.#-]\d{3}[.#-]\d{4}
+202-555-0187 --> \d{3}[.#-]\d{3}[.#-]\d{4}
+202.555.0196 --> \d{3}[.#-]\d{3}[.#-]\d{4}
+202#555#0196 --> \d{3}[.#-]\d{3}[.#-]\d{4}
+0175/12345678 --> ^\d{4}/\d{8} ---------> (\+49)|0049|0?\d{3}/\d{8}
++49165/12312347 --> \+\d{5}/\d{8} ------> (\+49)|0049|0?\d{3}/\d{8}
+0049165/12312347 --> \d{7}/\d{8} -------> (\+49)|0049|0?\d{3}/\d{8}
+
+abcdefghijklmnopqurtuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+LaLa La La LaLa
+
+Mr. Panjuta  --> Mr.?\s[a-z]
+Mr Muller  --> Mr.?\s[a-z]{4}
+Mr Robertson  --> Mr.?\s\w+
+Mr. G
+Ms Smith
+Ms Jackson
+
+// Challenge - find website links
+https://www.tutorials.eu --> https?://(www.)?(\w+)(\.\w+)
+https://tutorials.eu --> https?://(www.)?(\w+)(\.\w+)
+http://www.tutorials.eu --> https?://(www.)?(\w+)(\.\w+)
+http://tutorials.eu --> https?://(www.)?(\w+)(\.\w+)
+
+test@test.com ---> \w+@\w+\.\w+ (generic)
+
+
+MetaCharacters (Need to be escaped):
+.[{()\^$|?*+

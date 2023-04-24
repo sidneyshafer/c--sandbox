@@ -1,0 +1,15 @@
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\StringChallengeProblems\StringChallengeProblems\bin\Debug\net6.0\StringChallengeProblems.exe
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\StringChallengeProblems\StringChallengeProblems\bin\Debug\net6.0\StringChallengeProblems.deps.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\StringChallengeProblems\StringChallengeProblems\bin\Debug\net6.0\StringChallengeProblems.runtimeconfig.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\StringChallengeProblems\StringChallengeProblems\bin\Debug\net6.0\StringChallengeProblems.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\StringChallengeProblems\StringChallengeProblems\bin\Debug\net6.0\StringChallengeProblems.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\StringChallengeProblems\StringChallengeProblems\obj\Debug\net6.0\StringChallengeProblems.csproj.AssemblyReference.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\StringChallengeProblems\StringChallengeProblems\obj\Debug\net6.0\StringChallengeProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\StringChallengeProblems\StringChallengeProblems\obj\Debug\net6.0\StringChallengeProblems.AssemblyInfoInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\StringChallengeProblems\StringChallengeProblems\obj\Debug\net6.0\StringChallengeProblems.AssemblyInfo.cs
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\StringChallengeProblems\StringChallengeProblems\obj\Debug\net6.0\StringChallengeProblems.csproj.CoreCompileInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\StringChallengeProblems\StringChallengeProblems\obj\Debug\net6.0\StringChallengeProblems.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\StringChallengeProblems\StringChallengeProblems\obj\Debug\net6.0\refint\StringChallengeProblems.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\StringChallengeProblems\StringChallengeProblems\obj\Debug\net6.0\StringChallengeProblems.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\StringChallengeProblems\StringChallengeProblems\obj\Debug\net6.0\StringChallengeProblems.genruntimeconfig.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\StringChallengeProblems\StringChallengeProblems\obj\Debug\net6.0\ref\StringChallengeProblems.dll
