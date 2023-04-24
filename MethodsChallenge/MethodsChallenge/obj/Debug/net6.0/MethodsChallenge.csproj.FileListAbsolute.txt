@@ -1,0 +1,15 @@
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MethodsChallenge\MethodsChallenge\bin\Debug\net6.0\MethodsChallenge.exe
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MethodsChallenge\MethodsChallenge\bin\Debug\net6.0\MethodsChallenge.deps.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MethodsChallenge\MethodsChallenge\bin\Debug\net6.0\MethodsChallenge.runtimeconfig.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MethodsChallenge\MethodsChallenge\bin\Debug\net6.0\MethodsChallenge.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MethodsChallenge\MethodsChallenge\bin\Debug\net6.0\MethodsChallenge.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MethodsChallenge\MethodsChallenge\obj\Debug\net6.0\MethodsChallenge.csproj.AssemblyReference.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MethodsChallenge\MethodsChallenge\obj\Debug\net6.0\MethodsChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MethodsChallenge\MethodsChallenge\obj\Debug\net6.0\MethodsChallenge.AssemblyInfoInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MethodsChallenge\MethodsChallenge\obj\Debug\net6.0\MethodsChallenge.AssemblyInfo.cs
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MethodsChallenge\MethodsChallenge\obj\Debug\net6.0\MethodsChallenge.csproj.CoreCompileInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MethodsChallenge\MethodsChallenge\obj\Debug\net6.0\MethodsChallenge.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MethodsChallenge\MethodsChallenge\obj\Debug\net6.0\refint\MethodsChallenge.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MethodsChallenge\MethodsChallenge\obj\Debug\net6.0\MethodsChallenge.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MethodsChallenge\MethodsChallenge\obj\Debug\net6.0\MethodsChallenge.genruntimeconfig.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MethodsChallenge\MethodsChallenge\obj\Debug\net6.0\ref\MethodsChallenge.dll
