@@ -1,0 +1,17 @@
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MainArgs\MainArgs\bin\Debug\net6.0\MainArgs.exe
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MainArgs\MainArgs\bin\Debug\net6.0\MainArgs.deps.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MainArgs\MainArgs\bin\Debug\net6.0\MainArgs.runtimeconfig.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MainArgs\MainArgs\bin\Debug\net6.0\MainArgs.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MainArgs\MainArgs\bin\Debug\net6.0\MainArgs.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MainArgs\MainArgs\obj\Debug\net6.0\MainArgs.csproj.AssemblyReference.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MainArgs\MainArgs\obj\Debug\net6.0\MainArgs.Properties.Resources.resources
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MainArgs\MainArgs\obj\Debug\net6.0\MainArgs.csproj.GenerateResource.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MainArgs\MainArgs\obj\Debug\net6.0\MainArgs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MainArgs\MainArgs\obj\Debug\net6.0\MainArgs.AssemblyInfoInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MainArgs\MainArgs\obj\Debug\net6.0\MainArgs.AssemblyInfo.cs
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MainArgs\MainArgs\obj\Debug\net6.0\MainArgs.csproj.CoreCompileInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MainArgs\MainArgs\obj\Debug\net6.0\MainArgs.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MainArgs\MainArgs\obj\Debug\net6.0\refint\MainArgs.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MainArgs\MainArgs\obj\Debug\net6.0\MainArgs.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MainArgs\MainArgs\obj\Debug\net6.0\MainArgs.genruntimeconfig.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MainArgs\MainArgs\obj\Debug\net6.0\ref\MainArgs.dll

@@ -1,0 +1,15 @@
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MathClass\MathClass\bin\Debug\net6.0\MathClass.exe
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MathClass\MathClass\bin\Debug\net6.0\MathClass.deps.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MathClass\MathClass\bin\Debug\net6.0\MathClass.runtimeconfig.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MathClass\MathClass\bin\Debug\net6.0\MathClass.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MathClass\MathClass\bin\Debug\net6.0\MathClass.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MathClass\MathClass\obj\Debug\net6.0\MathClass.csproj.AssemblyReference.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MathClass\MathClass\obj\Debug\net6.0\MathClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MathClass\MathClass\obj\Debug\net6.0\MathClass.AssemblyInfoInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MathClass\MathClass\obj\Debug\net6.0\MathClass.AssemblyInfo.cs
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MathClass\MathClass\obj\Debug\net6.0\MathClass.csproj.CoreCompileInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MathClass\MathClass\obj\Debug\net6.0\MathClass.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MathClass\MathClass\obj\Debug\net6.0\refint\MathClass.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MathClass\MathClass\obj\Debug\net6.0\MathClass.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MathClass\MathClass\obj\Debug\net6.0\MathClass.genruntimeconfig.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\MathClass\MathClass\obj\Debug\net6.0\ref\MathClass.dll
