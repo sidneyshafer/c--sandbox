@@ -1,0 +1,15 @@
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\PropertiesPartOne\PropertiesPartOne\bin\Debug\net6.0\PropertiesPartOne.exe
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\PropertiesPartOne\PropertiesPartOne\bin\Debug\net6.0\PropertiesPartOne.deps.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\PropertiesPartOne\PropertiesPartOne\bin\Debug\net6.0\PropertiesPartOne.runtimeconfig.json
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\PropertiesPartOne\PropertiesPartOne\bin\Debug\net6.0\PropertiesPartOne.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\PropertiesPartOne\PropertiesPartOne\bin\Debug\net6.0\PropertiesPartOne.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\PropertiesPartOne\PropertiesPartOne\obj\Debug\net6.0\PropertiesPartOne.csproj.AssemblyReference.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\PropertiesPartOne\PropertiesPartOne\obj\Debug\net6.0\PropertiesPartOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\PropertiesPartOne\PropertiesPartOne\obj\Debug\net6.0\PropertiesPartOne.AssemblyInfoInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\PropertiesPartOne\PropertiesPartOne\obj\Debug\net6.0\PropertiesPartOne.AssemblyInfo.cs
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\PropertiesPartOne\PropertiesPartOne\obj\Debug\net6.0\PropertiesPartOne.csproj.CoreCompileInputs.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\PropertiesPartOne\PropertiesPartOne\obj\Debug\net6.0\PropertiesPartOne.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\PropertiesPartOne\PropertiesPartOne\obj\Debug\net6.0\refint\PropertiesPartOne.dll
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\PropertiesPartOne\PropertiesPartOne\obj\Debug\net6.0\PropertiesPartOne.pdb
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\PropertiesPartOne\PropertiesPartOne\obj\Debug\net6.0\PropertiesPartOne.genruntimeconfig.cache
+C:\Users\shafe\OneDrive\Documents\Web Development Courses and Resources\Programming for Beginners in C#\PropertiesPartOne\PropertiesPartOne\obj\Debug\net6.0\ref\PropertiesPartOne.dll
